@@ -22,3 +22,13 @@ Tom Buchanan
 Daisy’s immensely wealthy husband, once a member of Nick’s social club 
 at Yale. Powerfully built and hailing from a socially solid old family, 
 Tom is an arrogant, hypocritical bully.
+
+Myrtle Wilson
+Myrtle Wilson desperately seeks a better life than the one she has. 
+She feels imprisoned in her marriage to George, a downtrodden and
+ uninspiring man who she mistakenly believed had good “breeding.” 
+
+ George Wilson
+Myrtle’s husband, the lifeless, exhausted owner of a run-down auto 
+shop at the edge of the valley of ashes. George loves and idealizes 
+Myrtle, and is devastated by her affair with Tom.
